@@ -6,7 +6,7 @@ const Main = () => (
 	<>
 		<div className="background"></div>
 
-		<Grid container direction="column" justifyContent="center" textAlign="center" sx={{ mt: "30px", height: "100vh", p: { xs: 1.5, md: 8 } }}>
+		<Grid container direction="column" justifyContent="center" textAlign="center" sx={{ mt: "30px", height: "100vh", p: { xs: 1.5, md: 5 } }}>
 			<Typography variant="body1" my="3rem" fontSize={70}>
 				We Are
 			</Typography>

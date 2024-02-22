@@ -2,14 +2,14 @@ import { Button, Card, CardActions, CardContent, CardMedia, Grid, Typography } f
 // COMPONENTS
 import Header from "src/Components/Header/Header";
 // IMAGES
-import { grihsthitiImg, uielementsImg, omsImg, tictacttoeImg, todoappImg, reimagineImg, chatImg, expensetrackerImg, discordbotImg, mediahostImg } from "src/Assets/Images";
+import { aanganImg, uielementsImg, omsImg, tictacttoeImg, todoappImg, reimagineImg, chatImg, expensetrackerImg, discordbotImg, mediahostImg } from "src/Assets/Images";
 
 const projects = [
 	{
-		image: grihsthitiImg,
-		title: "Grihsthiti",
-		decription: "Grihsthiti is a shopping website that connects local shops with customers in the surrounding areas",
-		link: "https://grihsthiti-website.vercel.app/",
+		image: aanganImg,
+		title: "Aangan",
+		decription: "Aangan is a shopping website that connects local shops with customers in the surrounding areas",
+		link: "https://clothes.ataangan.com/",
 		available: true,
 	},
 	{

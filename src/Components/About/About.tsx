@@ -14,21 +14,18 @@ const Main = () => (
 
 		<Grid sx={{ mt: 5, borderLeft: "10px solid #795548", mx: { xs: 0, md: 14 } }}>
 			<Typography sx={{ color: "#795548", ml: 2 }} variant="h4">
-				Hi. I’m Neh, nice to meet you. Please take a look around!
+				Hi. I'm Neh, nice to meet you. Please take a look around!
 			</Typography>
 		</Grid>
 
 		<Grid sx={{ mt: 5, mx: { xs: 2, md: 14 } }}>
 			<Typography variant="h5" fontWeight="light">
-				Neh Jain this side, currently pursuing Bachelors of Engineering (2018-2022) in Information Technology from LDRP ITR (Gandhinagar). I am Full stack developer with a passion for
-				thoughtful UI design and collaboration.
+				Neh Jain this side, Expert in developing Full Stack Web Applications in React JS and Node JS with a passion for thoughtful UI design and collaboration.
 				<br />
 				<br />
-				As a web developer, I enjoy turning complex problems into simple, beautiful and intuitive designs. All of my websites are responsive and will work on any device big to small. That's
-				why I’m excited to make a big impact at a high growth company.
-				<br />
-				<br />
-				Below you can see some projects I've been working on lately.
+				Having {2.8}+ years of experience in industry, helped company to build efficient, scalable and complex web applications serving 50000+ user base with modern technologies. As a web
+				developer, I enjoy turning complex problems into simple, beautiful and intuitive designs. All of my websites are responsive and will work on any device big to small. That's why I'm
+				excited to make a big impact at a high growth company.
 			</Typography>
 		</Grid>
 	</Grid>

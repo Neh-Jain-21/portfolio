@@ -6,7 +6,7 @@ import expressImg from "src/Assets/Images/express.svg";
 import reactImg from "src/Assets/Images/react.svg";
 import nodeImg from "src/Assets/Images/node.svg";
 // PROJECTS IMAGE
-import grihsthitiImg from "src/Assets/Images/Grihsthiti.webp";
+import aanganImg from "src/Assets/Images/aangan.webp";
 import uielementsImg from "src/Assets/Images/uielements.webp";
 import omsImg from "src/Assets/Images/OMS.webp";
 import chatImg from "src/Assets/Images/chat.webp";
@@ -41,7 +41,7 @@ export {
 	expressImg,
 	reactImg,
 	nodeImg,
-	grihsthitiImg,
+	aanganImg,
 	uielementsImg,
 	omsImg,
 	tictacttoeImg,
