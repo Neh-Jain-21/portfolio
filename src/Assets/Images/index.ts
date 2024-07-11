@@ -1,5 +1,5 @@
 // PROFILE IMAGE
-import profileImg from "src/Assets/Images/profilepic.webp";
+import profileImg from "src/Assets/Images/profilepic.jpeg";
 // MAIN IMAGE
 import mongodbImg from "src/Assets/Images/mongodb.svg";
 import expressImg from "src/Assets/Images/express.svg";
